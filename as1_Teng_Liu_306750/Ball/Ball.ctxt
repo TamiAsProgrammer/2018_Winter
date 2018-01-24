@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getColor()
+comment1.params=color
+comment1.target=void\ setColor(java.lang.String)
+comment10.params=
+comment10.target=double\ getSurface()
+comment11.params=
+comment11.target=double\ getVolume()
+comment2.params=
+comment2.target=double\ getRadius()
+comment3.params=radius
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=Ball()
+comment5.params=color\ radius
+comment5.target=Ball(java.lang.String,\ double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=targetBall
+comment7.target=boolean\ equals(Ball)
+comment8.params=radius
+comment8.target=int\ compareTo(double)
+comment9.params=
+comment9.target=double\ getCircum()
+numComments=12

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mailbox()
+comment1.params=m
+comment1.target=void\ addMessage(Message)
+comment2.params=idx
+comment2.target=Message\ getMessageByIndex(int)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAllMessageList()
+comment4.params=idx
+comment4.target=Message\ removeMessage(int)
+comment5.params=
+comment5.target=int\ totalMessageNumber()
+numComments=6
